@@ -4,5 +4,6 @@ public class Testgit1 {
         System.out.println("第二次push到远程仓库");
         System.out.println("第二次push失败？？？？");
         System.out.println("第三次试试");
+        System.out.println("为了查看push步骤");
     }
 }
